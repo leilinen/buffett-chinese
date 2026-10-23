@@ -67,6 +67,5 @@ dist/
 # ZCode workspace
 .zcode/
 
-# Epub build (scripts are local-only, do not commit)
+# Local build tooling (do not commit)
 scripts/
-/价值投资演讲与访谈录.epub
